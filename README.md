@@ -9,10 +9,6 @@
 
 - Personal Portfolio [Exciting projects](https://portfolio-project-mocha.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-project-mocha.vercel.app/](https://portfolio-project-mocha.vercel.app/)
-
-- 📫 How to reach me **khandelwaltushar05@gmail.com**
-
 - 📄Resume [https://drive.google.com/file/d/1tD4u3Z6BLXWS9aNC-Bvgs3GJKO3Zzknl/view](https://drive.google.com/file/d/1tD4u3Z6BLXWS9aNC-Bvgs3GJKO3Zzknl/view)
 
 <h3 align="left">Connect with me:</h3>
